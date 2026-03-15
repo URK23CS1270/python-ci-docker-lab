@@ -1,4 +1,4 @@
-name: ci-dockerhub
+name: Python CI
 
 on:
 push:
